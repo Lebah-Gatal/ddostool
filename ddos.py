@@ -18,10 +18,10 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet DDos Attack")
+os.system("figlet PANCUTAN DDOS")
 
-print "HAK MILIK IMPERIAL ADMINISTRSTOR"
-print "Author   : Lebah-Gatal"
+print "HAK MILIK IMPERIAL ADMINISTRATOR"
+print "Author   : Lebah-Gatal
 print "github   : https://github.com/Lebah-Gatal"
 print "----------*No Sistem Is Safe*---------------"
 print
