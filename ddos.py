@@ -31,15 +31,15 @@ port = input  ("Masukkan Port      : ")
 
 os.system("clear")
 os.system("figlet Attack Starting")
-print "[                    ] 0% "
+print "[menyediakan tentera lebah] 0% "
 time.sleep(5)
-print "[=====               ] 25%"
+print "[tentera lebah memakai sut perang] 25%"
 time.sleep(5)
-print "[==========          ] 50%"
+print "[lebah-lebah mengasah jarum] 50%"
 time.sleep(5)
-print "[===============     ] 75%"
+print "[meletakan racun di jarum] 75%"
 time.sleep(5)
-print "[====================] 100%"
+print "[pasukan lebah siap] 100%"
 time.sleep(3)
 sent = 0
 while True:
