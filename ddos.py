@@ -30,7 +30,7 @@ ip = raw_input("Masukkan IP Target : ")
 port = input  ("Masukkan Port      : ")
 
 os.system("clear")
-os.system("figlet Attack Starting")
+os.system("figlet Lebah Menyengat")
 print "[menyediakan tentera lebah] 0% "
 time.sleep(5)
 print "[tentera lebah memakai sut perang] 25%"
